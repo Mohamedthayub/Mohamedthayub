@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/thayub thayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thayub thayub" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/thayub1w4a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thayub1w4a6" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/thayuthf4qy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thayub1w4a6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
