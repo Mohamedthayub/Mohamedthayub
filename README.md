@@ -6,7 +6,7 @@
 - 🚀 Learning Frontend Development & Learning DSA 
 - 🌱 Exploring JavaScript, React, and modern web technologies.
 - 💡 Looking for opportunities to collaborate on frontend projects and real-world applications.
--  Passionate about frontend development and building interactive web applications.
+<!-- -  Passionate about frontend development and building interactive web applications. -->
 
 
 ### Social Presence
