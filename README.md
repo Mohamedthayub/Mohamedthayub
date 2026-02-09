@@ -26,7 +26,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/64/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
  
 
